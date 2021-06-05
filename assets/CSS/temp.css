@@ -55,7 +55,6 @@ body{
 
 .left-container{
     /* positioning */
-    height: 650px;
     /* box model */
     /* text */
     font-size: larger;
@@ -65,6 +64,7 @@ body{
 
 .right-container{
     /* positioning */
+    height: 750px;
     /* box model */
     /* text */
     /* visual */
@@ -80,4 +80,27 @@ body{
     /* visual */
     float: left;
 
+}
+
+.viz-card{
+    /* positioning */
+    /* box model */
+    margin: 40px 20px 40px 20px;
+    width: 135px;
+    /* text */
+    text-align: center;
+    /* visual */
+
+}
+.viz-image {
+    /* positioning */
+    width: 100px;
+    /* box model */
+    /* text */
+    /* visual */
+}
+
+footer {
+    /* text */
+    text-align: center;
 }

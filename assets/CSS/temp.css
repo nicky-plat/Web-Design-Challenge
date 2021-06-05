@@ -1,0 +1,83 @@
+/* placeholder for my css file*/
+
+/* positioning */
+/* box model */
+/* text */
+/* visual */
+
+body{
+    /* positioning */
+    position: relative;
+}
+
+.container {
+    /* positioning */
+    /* box model */
+    border: 2px solid blue;
+    /* text */
+    /* visual */
+
+}
+
+.navbar-brand {
+    /* positioning */
+    height: 40px;
+    width: 120px;
+    /* box model */
+    margin: 10px 800px 10px 10px;
+    /* text */
+    text-align: center;
+    /* visual */
+    background-color: rgb(27, 170, 170);
+
+}
+
+#navbar-span {
+    /* text */
+    color: white;
+    font-weight: bolder;
+
+}
+
+.main-body-container {
+    /* positioning */
+    height: 750px;
+    width: 1080px;
+    /* box model */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid green;
+    padding: 10px 10px 10px 10px;
+    /* text */
+    /* visual */
+    align-self: center;
+}
+
+.left-container{
+    /* positioning */
+    height: 650px;
+    /* box model */
+    /* text */
+    font-size: larger;
+    /* visual */
+
+}
+
+.right-container{
+    /* positioning */
+    /* box model */
+    /* text */
+    /* visual */
+
+
+}
+
+.left-img{
+    /* positioning */
+    width: 500px;
+    /* box model */
+    /* text */
+    /* visual */
+    float: left;
+
+}
